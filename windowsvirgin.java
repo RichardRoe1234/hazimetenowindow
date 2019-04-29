@@ -8,9 +8,9 @@ import javax.swing.JFrame;
 
 
 
-public class ‚¤‚¿‚±‚Þ‚Þ extends Frame
+public class windowsvirgin extends Frame
 {
-	public ‚¤‚¿‚±‚Þ‚Þ() {
+	public windowsvirgin() {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100,100,640,480);
 		
